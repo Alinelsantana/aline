@@ -1,7 +1,7 @@
 body{
     margin: 0;
     font-size: arial, helvetica,sans-serif;
-    background-color:white;
+    background-color:rgb(247, 170, 170);
 }
 
 .ret00{
@@ -20,8 +20,61 @@ padding-top: 1px;
     text-align: center;
     color: white;
 
+}
 
+.rest01 h1{
+    font-size: 50px;
+    text-shadow: 2px 2px 2px black;
+    text-transform: uppercase;
+    margin-bottom: 0;
+}
+.rest01 p{
+    background-color: rgba(0, 0, 0, .7);
+    font-size: 18px;
+    display: inline-block;
+    padding: 16px;
+    border-bottom: 2px solid;
+}
+.rest01 h2{
+    background-color: brown;
+}
 
-
+main{
+    width: 90%;
+    max-width: 860%;
+    display:inline-block ;
+}
+article h2{
+    border-radius: 2px solid #ccc;
+    background-color: #dbd81d;
+    padding: 5px;
+    margin-top: 0;
+}
+.rest03 {
+    background-color: #cdc7c3;
+    display: block;
+    padding: 12px;
+    border-radius: 6px;
+    margin-left: auto;
+    width: fit-content;
 
 }
+
+h3{
+    background-color:brown;
+    text-align: center;
+    padding:5px ;
+    margin-top: 0;
+    
+}
+
+.rodape{
+    color: white;
+    background-color: #6b6c68;
+    text-align: center;
+    padding: 30px;
+    text-shadow: 2px 2px 2px black;
+letter-spacing: 2px;
+}
+
+
