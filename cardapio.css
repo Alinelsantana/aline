@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    font-size: arial, helvetica,sans-serif;
+    background-color:white;
+}
+
+.rest01{
+
+background-image: url(../aline/imagem2/imagem19.jpg);
+height: 500px;
+background-size: cover ;
+background-position: right center;
+padding-top: 1px;
+
+
+
+}
