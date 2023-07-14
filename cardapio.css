@@ -4,13 +4,23 @@ body{
     background-color:white;
 }
 
-.rest01{
-
-background-image: url(../aline/imagem2/imagem19.jpg);
+.ret00{
+    background-image: url(../aline/imagem2/imagem19.jpg);
 height: 500px;
 background-size: cover ;
 background-position: right center;
 padding-top: 1px;
+
+
+}
+
+.rest01{
+    margin: 100px auto 0;
+    width: 80%;
+    text-align: center;
+    color: white;
+
+
 
 
 
